@@ -1,2 +1,2 @@
-https://mony8625.github.io/CV/
+cv
 https://mony8625.github.io/CV/
